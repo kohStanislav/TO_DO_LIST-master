@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.staskoh.ToDoList.com.staskoh.todolist.screens.main.TODOLIST">
+    <item
+        android:id="@+id/action_save"
+        android:icon="@android:drawable/stat_notify_sdcard"
+        android:title="@string/save"
+        app:showAsAction="always" />
+</menu>
